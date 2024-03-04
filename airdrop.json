@@ -1,0 +1,262 @@
+[
+    {
+        "Name": "Pool",
+        "EthereumAddress": "0x8b4f4438c489d0ef574a4C8554289198E2DA3056",
+        "TokensToAirdrop": "32000000.0000000000"
+    },
+    {
+        "Name": "Team",
+        "EthereumAddress": "0x4C4d3F0AfaAf055720189F71C37694AB2A59A5Fd",
+        "TokensToAirdrop": "4000000.0000000000"
+    },
+    {
+        "Name": "Team",
+        "EthereumAddress": "0xa98B96E486444f26E0800Fb0a696a00f3d82373F",
+        "TokensToAirdrop": "4000000.0000000000"
+    },
+    {
+        "Name": "Marketing Wallet",
+        "EthereumAddress": "0x4a73ff7989b23FaDDFDE8e266CB93fEd477a8a66",
+        "TokensToAirdrop": "5000000.0000000000"
+    },
+    {
+        "Name": "Holder",
+        "EthereumAddress": "0xD0E39ddc3D83c79F07A14F4Acc664D413b90b5c5",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xAC516E1A65FfBf1A4a5a7327f909cdbCAdA6f88C",
+        "TokensToAirdrop": "2000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xE64B9fbC6Ed0f8Df53738D773156732956f96b67",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x42ae931Aad290F305Adff711471D0805cdEA2B14",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x4a8370F9d858f6b6795B0266625ae2734C9fdE4E",
+        "TokensToAirdrop": "500000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x98E5324BC63f132ee5432214a6B6A77344613396",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x94d5542A7f31929EAA5800fE0a884bc1BDbcA2a2",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x58B01c43B8CB302576B8aa8FF04F229379F8C64B",
+        "TokensToAirdrop": "2000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xeb256A7211143F5a90369c416b1AF47F40d49b36",
+        "TokensToAirdrop": "500000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x9785855350E46961D02Fec0Cd4260E76C3813422",
+        "TokensToAirdrop": "500000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x4E9AFEF51715C115F6C432473618ce02ffF3AA15",
+        "TokensToAirdrop": "250000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x3B889317395C7CAa45a488866c6cE535909B8355",
+        "TokensToAirdrop": "2000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xf3Ea643F70d6a900aFC62c7B18099325641196D7",
+        "TokensToAirdrop": "2000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x5C90dde5B3a445bdfcb163A25B325008736Cb262",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xCED97A39bB1aa36f6C30d97960C9Cd62bdf5C27b",
+        "TokensToAirdrop": "1975453.6082062600"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xb4114398059e75bb6DA2CC2Dc50b0820Eb56d5Bb",
+        "TokensToAirdrop": "34480.9314563770"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x5aeb5dea3bB4978C63C4090349bf638D31028F0B",
+        "TokensToAirdrop": "1997015.3150734900"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xf3Ea643F70d6a900aFC62c7B18099325641196D7",
+        "TokensToAirdrop": "103599.9971750830"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x39F0cc5Ec1EC4666e84e126b6dB1e530c7d54c6c",
+        "TokensToAirdrop": "1516887.4469123600"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xAf9C5dB9474F4F99C9E903915D83BD2C862Db34d",
+        "TokensToAirdrop": "1514291.8081543300"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x63Adb116296dF047E3f4EfE913B04783e3d20F0A",
+        "TokensToAirdrop": "1580365.1643449700"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xB40a1be2d3a49198D70FDfD64032cb741beA4470",
+        "TokensToAirdrop": "135637.4636589370"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x002105138c438259d292e2f215312906fAaCe628",
+        "TokensToAirdrop": "443491.4017244790"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xfbAf85816767d21bfF045218185ddF3D6c0fA0dD",
+        "TokensToAirdrop": "1781176.3930926800"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x30E9FB9837319242e780D0DB066EdBB76C224cdA",
+        "TokensToAirdrop": "507162.5514739210"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x61d87AB5c56B28AfeF10d5ED30fe9B63ba6C2Dd6",
+        "TokensToAirdrop": "260178.4797386000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xdA7b6703a2ab32551BFd3d06Dc390d8BB548C6b9",
+        "TokensToAirdrop": "59061.1180112290"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x31906184278C2b5aF00AddC97a41e1D77D18671f",
+        "TokensToAirdrop": "362782.6366879370"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x9785855350E46961D02Fec0Cd4260E76C3813422",
+        "TokensToAirdrop": "250000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xc8efb221259289c382d8a75D841d69aD32D4C81a",
+        "TokensToAirdrop": "1993955.8248596400"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x86c0865Af713BcC96062304Cc17c4cdD762a231b",
+        "TokensToAirdrop": "1999088.8682626700"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x2042FFe1aC11F1bB61e2c827AcFafb89E0594ac2",
+        "TokensToAirdrop": "1252970.3132488300"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xb79594eBcfA3eBb722B3490ea0c322695F40Eb83",
+        "TokensToAirdrop": "727847.0385125500"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x13021a4e6c9083A6cd63c3F7D7483Db8E5781C70",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x085E9DB9b159FAf5f98D03540a3880dbD02e48EE",
+        "TokensToAirdrop": "1005186.6439541300"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xC8AAaFB2C6E3F92C21360A27d3d2D3DCC02Cb1B6",
+        "TokensToAirdrop": "620635.1214480030"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x25aBb2231a744FE10F461988100699f105369D73",
+        "TokensToAirdrop": "600820.3875398110"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x8feE41eebB2572E8c0820bbE02a16dE358BA214C",
+        "TokensToAirdrop": "1187481.8559929200"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xb90C43ED13665556967c668098b36ab201F5a482",
+        "TokensToAirdrop": "200000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xF5d8fE42b8217fA0cD70Fc4400AD0D19514fe946",
+        "TokensToAirdrop": "500000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x15f63E83c5DE8d0E2a7E16dfB805852AdcB9FcA6",
+        "TokensToAirdrop": "530358.6118310090"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x0c98bE91483F8317dAc1F43A22aC754D8358a502",
+        "TokensToAirdrop": "17206.3571621250"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x391480884F0eA6633c093D2EdE6924eca34A74F8",
+        "TokensToAirdrop": "1348412.2190138400"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x6421fe301D73F9641a3d599e0F2625C1CC5BbB91",
+        "TokensToAirdrop": "596714.7355067900"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x19479B2870df1c9a31244ca3228cb22498ece3C1",
+        "TokensToAirdrop": "604582.6151584000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x0a6Db4D1817242Bf315072fF39b27F7F5cFe8Dc2",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0x26E303cF646b0C96e033aabbFa0ebaE040626dA6",
+        "TokensToAirdrop": "1000000.0000000000"
+    },
+    {
+        "Name": null,
+        "EthereumAddress": "0xd57f2BB62a0eD04872C7f12679c75Ea2c948E3A5",
+        "TokensToAirdrop": "254940.1900000000"
+    }
+]
